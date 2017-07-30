@@ -1,4 +1,4 @@
-# joinsu
+# 学生会纳新网站前端
 
 > student union recruitment
 
